@@ -12,8 +12,8 @@ proc.init (device)
 
 cards = {
     "02S": "remote;willisson.org",
-    "03S": "",
-    "04S": "",
+    "03S": "remote;pacew.dyndns.org",
+    "04S": "athena.dialup.mit.edu",
     "05S": "",
     "06S": "",
     "07S": "",
